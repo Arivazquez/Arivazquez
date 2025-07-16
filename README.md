@@ -36,9 +36,7 @@ Briefs, frameworks, plantillas y checklists para creativxs como tú.
 - La creatividad con propósito.  
 - La comunidad como forma de crecer y aprender.  
 - El equilibrio entre la intuición y la estrategia.
-
 ---
-
 > _“Diseñar es traducir lo invisible en experiencia tangible.”_
 ---
 ## 🤝 ¿Colaboramos?
