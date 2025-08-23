@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy [Ari]
 
-✨ Junior UX Designer | Directora Creativa | Exploradora táctil de lo digital  
+✨ Junior UX Designer | Directora Creativa 
 
 ## 💡 Sobre mí (versión express)
 
